@@ -1,0 +1,1 @@
+This project uses a 25,000 image dataset of scenic images to classify images into different types of scenic catagories using both pre-trained models and self-trained models. TensorFlow, and Keras were used to train and generate the models 
